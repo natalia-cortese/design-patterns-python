@@ -1,0 +1,6 @@
+[project]
+name = "design-patterns-python"
+version = "0.1.0"
+description = "Guía de uso de los patrones de diseño GoF en Python"
+readme = "README.md"
+requires-python = ">=3.10"
