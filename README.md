@@ -42,6 +42,14 @@ design-patterns-python/
 ├── README.md
 ├── pyproject.toml
 ├── patterns/
+│   ├── SOLID/
+│   │   ├── dependencyInversion/
+│   │   ├── interfaceSegregation/
+│   │   ├── liskovSubstitution/
+│   │   ├── openClose/
+│   │   ├── overview/
+│   │   ├── singleResponsability/
+│   │
 │   ├── creational/
 │   │   ├── singleton/
 │   │   ├── factory_method/
