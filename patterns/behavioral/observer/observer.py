@@ -26,7 +26,7 @@ class WeatherObserver:
 
 class WeatherDisplay (WeatherObserver):
     def update(self, temperature, humidity, pressure):
-        print(f"Temperature: {temperature}°C, Humidity: {humidity}%, Pressure: {pressure}hPa")
+        print(f"Temperature: {temperature}°C, Humidity: {humidity}%, Pressure: {pressure}hPa")  # noqa: E501
 
 
 # Example usage

@@ -29,7 +29,7 @@ class Subscriber:
         self.name = name
 
     def update(self, channel_name, video_title):
-        print(f"{self.name} received notification: '{video_title}' uploaded on {channel_name}")
+        print(f"{self.name} received notification: '{video_title}' uploaded on {channel_name}")  # noqa: E501
 
 
 # Example usage
